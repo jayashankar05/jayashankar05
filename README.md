@@ -17,7 +17,7 @@ Hello! I'm **Jayashankar Kompala**, an enthusiastic **IoT & Embedded Systems Dev
 - 💡 Designing intelligent control systems and electronics circuits
 - 🔌 Working with sensors, Bluetooth modules, and relay systems
 - 🚀 Converting ideas into real-world hardware solutions
-- 📚 Continuous learning through problem-solving and experimentationxkcckvlhshckchvf
+- 📚 Continuous learning through problem-solving and experimentation
 
 **Fun Facts:**
 - ⚙️ Love tinkering with hardware and understanding how things work
