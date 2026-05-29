@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 
-Hello! I'm **Jayashankar Kompala**, an enthusiastic **IoT & Embedded Systems Developer** with a passion for creating intelligent hardware solutions. Currently pursuing **B.Tech in Electronics and Communication Engineering**, I'm a fresher diving deep into the world of microcontrollers, sensors, and IoT applications.fnsdkkldnmklf g,lkgr
+Hello! I'm **Jayashankar Kompala**, an enthusiastic **IoT & Embedded Systems Developer** with a passion for creating intelligent hardware solutions. Currently pursuing **B.Tech in Electronics and Communication Engineering**, I'm a fresher diving deep into the world of microcontrollers, sensors, and IoT applications.
 
 🎯 **What I'm passionate about:**
 - 🤖 Building IoT applications with Arduino and embedded systems
