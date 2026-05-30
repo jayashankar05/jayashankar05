@@ -91,6 +91,6 @@ I'm always open to collaborating on exciting IoT and embedded systems projects! 
   
 ### 💬 "Building the future, one circuit at a time!" ⚡
 
-**Let's create something amazing together!**
+**Let's create something amazing together!**gdfvnmghfhdvmh
 
 </div>
